@@ -12,3 +12,4 @@
 - [Home Work #10](HomeWork10) - двумерные массивы
 - [Home Work #11](HomeWork11) - сортировка массивов
 - [Home Work #12](HomeWork12) - функции
+- [Home Work #13](HomeWork13) - шахматы
