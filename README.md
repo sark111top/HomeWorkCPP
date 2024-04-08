@@ -14,3 +14,4 @@
 - [Home Work #12](HomeWork12) - функции
 - [Home Work #13](HomeWork13) - шахматы
 - [Home Work #14](HomeWork14) - указатели
+- [Home Work #15](HomeWork15) - динамические массивы
