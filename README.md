@@ -13,3 +13,4 @@
 - [Home Work #11](HomeWork11) - сортировка массивов
 - [Home Work #12](HomeWork12) - функции
 - [Home Work #13](HomeWork13) - шахматы
+- [Home Work #14](HomeWork14) - указатели
