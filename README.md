@@ -16,3 +16,4 @@
 - [Home Work #14](HomeWork14) - указатели
 - [Home Work #15](HomeWork15) - динамические массивы
 - [Home Work #17](HomeWork17) - динамические массивыи и paint
+- [Home Work #18](HomeWork18) - строки
